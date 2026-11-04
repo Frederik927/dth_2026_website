@@ -9,5 +9,7 @@ The idea of open source software dates back to 1953. However, the contemporary u
 
 https://www.open-circle.ch/en/what-is-open-source-software-and-what-are-its-advantages/
 
+
 https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
+
 
