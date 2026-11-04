@@ -18,7 +18,7 @@ To understand cultural differences and how they are rooted, there is often a nee
 
 ### My verdict
 
-As Voyant Tool is a well-known and respected open source project, that has, among others, won the Zampolli Prize for its achievement in the digital humanities, I would rely on it for my thesis. Furthermore, it is also recognised by Aarhus University as a valid tool for data analysis, further strengthening its credibility. Though it would optimise the workflow and help keeping an overview of the process, I would be able to leave it and still manage to conduct my analysis. Thus, it is a valuable tool, but not indispensable. 
+As Voyant Tool is a well-known and respected open source project, that has, among others, won the Zampolli Prize for its achievement in the digital humanities, I would rely on it for my thesis. Furthermore, it is also recognised by Aarhus University as a valid tool for data analysis, further strengthening its credibility. Though it would optimise the workflow and help keeping an overview of the process, I would be able to leave it and still manage to conduct my analysis.
 
 
 https://voyant.lincsproject.ca/docs/tutorial-about.html
