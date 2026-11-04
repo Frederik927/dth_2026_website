@@ -7,7 +7,10 @@ Though open source software provides many possibilities it also carries potentia
 
 https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
 
+
 https://refine.dev/blog/open-source-advantages-disadvantages/
 
+
 https://otis.libguides.com/Wikipedia/strengthsandweaknesses
+
 
