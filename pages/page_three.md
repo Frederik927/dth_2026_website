@@ -1,4 +1,4 @@
-# Which opensource project would be useful in your major, and why?
+# Open source project to apply for my major
 
 
 ## Voyant Tools 
