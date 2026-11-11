@@ -14,7 +14,7 @@ To understand cultural differences and how they are rooted, there is often a nee
 2.	Last change: 11 days ago (At the time of writing 1. November) 
 3.	People: 10 contributors. 
 4.	Questions: 25 open and 84 closed issues (At the time of writing 1. November) 
-5.	Money: Difficult to assess the specific funding. The underlying server infrastructure is provided for free by the Digital Research Alliance of Canada (DRAC). However, human maintenance is still needed on a regular basis, which is funded by applying for different grants.
+5.	Money: Difficult to assess the specific funding. The underlying server infrastructure is provided for free by the Digital Research Alliance of Canada. However, human maintenance is still needed on a regular basis, which is funded by different grants.
 
 ### My verdict
 
